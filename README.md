@@ -41,9 +41,8 @@ for i in fp:
 print(d)
 ```
 ### OUTPUT:
-![image](https://user-images.githubusercontent.com/121117266/214815764-7a1741f1-4b85-432d-b8af-f74cf9924b7d.png)
-
-
+![image](https://user-images.githubusercontent.com/121117266/214827915-8c420297-1311-416f-a4fa-60f2598e76cf.png)
+![image](https://user-images.githubusercontent.com/121117266/214827983-fa520275-22d5-46e3-967b-5c1673948796.png)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
