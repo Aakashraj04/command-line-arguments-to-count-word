@@ -41,6 +41,7 @@ for i in fp:
 print(d)
 ```
 ### OUTPUT:
+![image](https://user-images.githubusercontent.com/121117266/214815764-7a1741f1-4b85-432d-b8af-f74cf9924b7d.png)
 
 
 
